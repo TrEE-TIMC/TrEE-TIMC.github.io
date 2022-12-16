@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.link {
+    float: right;
+    text-align: left;
+    width: 20%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1em;
+    color: #101010;
+}
+
+a:hover {
+    color: #781638;
+}
